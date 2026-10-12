@@ -1,0 +1,2 @@
+# ai
+minimax h3
